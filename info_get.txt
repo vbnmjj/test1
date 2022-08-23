@@ -1,0 +1,14 @@
+url:www.ar-glassfibre.com/
+
+1.whois 查询 ----但是的一般都有保护，是服务商的邮箱；
+  天眼查  icp备案查询   这里还能得到一些信息
+，2043824836@qq.com
+602969170@qq.com
+121760026@qq.com
+
+2.收集敏感信息   
+	google语法： intext在内容中匹配  site指定站点内搜索   inurl网址中包含  filetype文件类型  " " 完全匹配  -不包含内容  *代表任意内容 inanchor:点击这里
+intitle: 在标题中包含的   allintitle: key1 key2 多关键字搜索  allinurl:多关键字搜索 
+
+3.收集子域名
+		
